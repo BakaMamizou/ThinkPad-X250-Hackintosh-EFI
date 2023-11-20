@@ -85,6 +85,14 @@ sudo diskutil mount /dev/disk0s1
 * 将U盘从电脑弹出，重启，开机选择从硬盘引导
 * 开始你的黑苹果之旅
 
+### 安装后需要做的事情
+由于苹果在 macOS 12.00 Monterey后面的版本删除了8代以前旧Intel机型的Kext，所以安装完后需要手动为系统打上显卡加速补丁(不打补丁电脑操作将非常卡顿、不跟手)，可在[OpenCore-Patcher项目](https://github.com/dortania/OpenCore-Legacy-Patcher/releases/)中下载软件进行修复。
+
+![image](https://github.com/BakaMamizou/ThinkPad-X250-Hackintosh-EFI/blob/main/IMG/IMG02.png)
+
+
+![image](https://github.com/BakaMamizou/ThinkPad-X250-Hackintosh-EFI/blob/main/IMG/IMG03.png)
+
 ### 建议的BIOS设定
 Security -> Security Chip`: Disabled;
 
