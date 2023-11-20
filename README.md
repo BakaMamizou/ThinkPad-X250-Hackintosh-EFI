@@ -1,6 +1,6 @@
 # ThinkPadX250-Hackintosh-EFI
 ThinkPad X250\T450\T450s\X1 Carbon 3rd Hackintosh EFI  
-![image](https://github.com/BakaMamizou/ThinkPad-X250-Hackintosh-EFI/IMG/IMG01.png)
+![image](https://github.com/BakaMamizou/ThinkPad-X250-Hackintosh-EFI/blob/main/IMG/IMG01.png)
 
 
 2023.11.20 项目建立，本人测试X250 运行MacOS 14 Sonoma成功，目前OC版本0.9.6
